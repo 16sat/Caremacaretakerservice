@@ -1,0 +1,102 @@
+.navbar {
+  background-color: #ffffff; /* Set the background color */
+  border-radius: 0; /* Remove the border radius */
+  border-bottom: 1px solid #e7e7e7; /* Add a bottom border */
+  margin-bottom: 0; /* Remove the margin bottom */
+  padding: 10px 0; /* Add padding */
+}
+
+.navbar-brand {
+  font-weight: bold; /* Set font weight */
+  font-size: 30px; /* Set font size */
+}
+
+.nav-link {
+  color: #000000; /* Set link color */
+  font-weight: bold; /* Set font weight */
+  font-size: 18px; /* Set font size */
+  margin-right: 10px; /* Add right margin */
+}
+
+.nav-link:hover {
+  color: #007bff; /* Change link color on hover */
+}
+
+#child-services {
+  background-image: url("https://images1-fabric.practo.com/practices/822658/nidan-mother-and-child-care-noida-58e3941420605.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+#child-services h2.section-heading,
+#child-services h3.section-subheading {
+  color: #fff;
+}
+
+.card {
+  border: none;
+  transition: all 0.3s ease-in-out;
+}
+
+.card:hover {
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+  transform: translateY(-10px);
+}
+
+.card-img-top {
+  height: 250px;
+  object-fit: cover;
+}
+
+.card-title {
+  margin-top: 10px;
+}
+
+.card-text {
+  font-size: 1.2rem;
+}
+
+.btn-primary {
+  background-color: #3aafa9;
+  border-color: #3aafa9;
+}
+
+.btn-primary:hover {
+  background-color: #21877d;
+  border-color: #21877d;
+}
+
+#elderly-package {
+  background-color: #f6f6f6;
+  padding: 50px 0;
+}
+
+.section-heading {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.card {
+  margin-bottom: 50px;
+}
+
+.card-img-top {
+  height: 300px;
+  object-fit: cover;
+}
+
+.price {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #007bff;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.btn-primary:hover {
+  background-color: #0062cc;
+  border-color: #005cbf;
+}
